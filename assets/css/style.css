@@ -622,23 +622,22 @@ section {
 --------------------------------------------------------------*/
 .footer {
   background: #f6f9ff;
-  padding: 0 0 30px 0;
+  padding: 0 0 50px 0;
   font-size: 14px;
+  text-align: center;
 }
 
-.footer .footer-top .footer-contact p {
-  line-height: 26px;
+.footer i {
+  font-size: 30px;
+  padding: 5px;
 }
 
 .footer .copyright {
-  text-align: center;
   padding-top: 30px;
   color: #198041;
 }
 
 .footer .credits {
-  padding-top: 10px;
-  text-align: center;
   font-size: 13px;
   color: #198041;
 }
